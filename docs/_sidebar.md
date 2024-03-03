@@ -6,5 +6,7 @@
 - 还算是教程
   - [md教程](md教程.md)
 
-- 一些不明所以的东西
+- utils
   - [这是一个按钮](这是一个按钮.md)
+  - [bd自制谱资源解析](chart.popipa.md)
+  - [Tsugu Docs](tsugu.md)
